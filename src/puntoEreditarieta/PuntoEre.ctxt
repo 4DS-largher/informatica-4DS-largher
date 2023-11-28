@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PuntoEre
+comment1.params=x\ y
+comment1.target=PuntoEre(double,\ double)
+comment2.params=p
+comment2.target=PuntoEre(puntoEreditarieta.PuntoEre)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=x
+comment5.target=void\ setX(double)
+comment6.params=y
+comment6.target=void\ setY(double)
+comment7.params=deltaX\ deltaY
+comment7.target=void\ traslaPunto(double,\ double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

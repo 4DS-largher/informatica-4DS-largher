@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PuntoColorato
+comment1.params=x\ y\ colore
+comment1.target=PuntoColorato(double,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getColore()
+comment3.params=colore
+comment3.target=void\ setColore(java.lang.String)
+comment4.params=p
+comment4.target=PuntoColorato(puntoEreditarieta.PuntoColorato)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
