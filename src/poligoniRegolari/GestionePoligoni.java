@@ -1,4 +1,4 @@
-package poligoniRegolari;
+ 
 
 public class GestionePoligoni {
     private Poligono[] arrPoligoni;

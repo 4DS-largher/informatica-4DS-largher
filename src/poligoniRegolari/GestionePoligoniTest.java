@@ -1,4 +1,4 @@
-package poligoniRegolari;
+ 
 
 public class GestionePoligoniTest {
     public static void main(String[] args) {

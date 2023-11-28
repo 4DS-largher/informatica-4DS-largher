@@ -1,4 +1,4 @@
-package puntoEreditarieta;
+ 
 
 public class PuntoTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package poligoniRegolari;
+ 
 
 abstract  public class Poligono {
     private int nLati;

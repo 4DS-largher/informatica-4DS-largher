@@ -1,4 +1,4 @@
-package puntoEreditarieta;
+ 
 
 public class PuntoColorato extends PuntoEre {
     private String colore;

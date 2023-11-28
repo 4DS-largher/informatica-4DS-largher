@@ -1,4 +1,4 @@
-package puntoEreditarieta;
+ 
 
 public class Punto3D extends PuntoEre {
     private double z;

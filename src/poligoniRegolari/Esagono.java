@@ -1,4 +1,4 @@
-package poligoniRegolari;
+ 
 
 public class Esagono extends Poligono{
     public Esagono(float lLati){

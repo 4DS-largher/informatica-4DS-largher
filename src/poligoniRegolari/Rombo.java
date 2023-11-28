@@ -1,4 +1,4 @@
-package poligoniRegolari;
+ 
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package poligoniRegolari;
+ 
 import java.lang.Math;
 
 public class Pentagono extends Poligono{

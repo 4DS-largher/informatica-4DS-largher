@@ -1,4 +1,4 @@
-package puntoEreditarieta;
+ 
 
 public class PuntoEre {
     private double x;
